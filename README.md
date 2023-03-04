@@ -13,4 +13,4 @@
 
 ### Proposed Architecture:
 
-![Proposed Architecture :](./images/disclstm-vert.pdf)
+![Proposed Architecture :](./images/disclstm-vert.jpg)
